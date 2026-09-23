@@ -24,4 +24,10 @@ Hemos colaborado en el proyecto:
 | ---- | --- | --- |
 | 1.0 | Creación del readme | Victor Vergel |
 
-
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+``` 
